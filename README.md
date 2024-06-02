@@ -1,3 +1,4 @@
 # SpotifyClon - aadrii04-github-io.vercel.app 
 
-![image](https://github.com/aadrii04/SpotifyClon/assets/145559112/7d5b5a4d-939c-4ebe-aa15-08f40932af42)
+![image](https://github.com/aadrii04/SpotifyClon/assets/145559112/55f88275-2230-4547-b88c-668a87b269c3)
+
